@@ -40,3 +40,4 @@ Notes and usage details for raytsystem-public-os.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
